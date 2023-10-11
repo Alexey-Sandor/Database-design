@@ -1,0 +1,1 @@
+# БД сделанная в связке Postgresql + SQLAlchemy
